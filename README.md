@@ -15,10 +15,6 @@ A modern e-commerce website built with HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Live Demo
-
-Add your live website link here
-
 ## Author
 
 Atif Hayat
